@@ -1,5 +1,5 @@
 
-# Job Webscraper
+# Job Web Scraper
 
 This project scrapes data analyst jobs from Jobstreet PH.
 
